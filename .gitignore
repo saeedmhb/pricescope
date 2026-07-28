@@ -1,0 +1,5 @@
+﻿data/sales/*
+!data/sales/pos_sales_2026_06.csv
+.env
+*.pbix.bak
+__pycache__/

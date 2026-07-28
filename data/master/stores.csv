@@ -1,0 +1,51 @@
+store_id,store_name,city,region,store_format,opened_date
+S001,GH Markt Strausberg 001,Strausberg,Brandenburg,XL,2012-10-23
+S002,GH Markt Berlin-Lichtenberg 002,Berlin,Berlin,Kompakt,2022-05-13
+S003,GH Markt Berlin-Reinickendorf 003,Berlin,Berlin,Standard,2013-01-06
+S004,GH Markt Koenigs Wusterhausen 004,Koenigs Wusterhausen,Brandenburg,Standard,2019-08-23
+S005,GH Markt Berlin-Reinickendorf 005,Berlin,Berlin,Kompakt,2006-02-19
+S006,GH Markt Teltow 006,Teltow,Brandenburg,XL,2011-04-24
+S007,GH Markt Teltow 007,Teltow,Brandenburg,Standard,2008-06-19
+S008,GH Markt Berlin-Treptow 008,Berlin,Berlin,Kompakt,2017-02-26
+S009,GH Markt Berlin-Marzahn 009,Berlin,Berlin,Standard,2011-08-05
+S010,GH Markt Berlin-Steglitz 010,Berlin,Berlin,Standard,2013-06-20
+S011,GH Markt Berlin-Mitte 011,Berlin,Berlin,Kompakt,2019-10-27
+S012,GH Markt Koenigs Wusterhausen 012,Koenigs Wusterhausen,Brandenburg,Standard,2019-04-28
+S013,GH Markt Strausberg 013,Strausberg,Brandenburg,Standard,2007-06-28
+S014,GH Markt Teltow 014,Teltow,Brandenburg,Kompakt,2016-10-31
+S015,GH Markt Berlin-Lichtenberg 015,Berlin,Berlin,Standard,2015-02-14
+S016,GH Markt Strausberg 016,Strausberg,Brandenburg,Standard,2013-05-21
+S017,GH Markt Ludwigsfelde 017,Ludwigsfelde,Brandenburg,Standard,2014-11-08
+S018,GH Markt Berlin-Charlottenburg 018,Berlin,Berlin,Standard,2012-10-09
+S019,GH Markt Potsdam 019,Potsdam,Brandenburg,Standard,2009-03-01
+S020,GH Markt Berlin-Spandau 020,Berlin,Berlin,Standard,2016-10-12
+S021,GH Markt Koenigs Wusterhausen 021,Koenigs Wusterhausen,Brandenburg,Kompakt,2012-03-26
+S022,GH Markt Berlin-Mitte 022,Berlin,Berlin,Kompakt,2006-08-09
+S023,GH Markt Berlin-Marzahn 023,Berlin,Berlin,Standard,2013-12-01
+S024,GH Markt Berlin-Mitte 024,Berlin,Berlin,Standard,2011-10-13
+S025,GH Markt Berlin-Marzahn 025,Berlin,Berlin,Standard,2006-07-24
+S026,GH Markt Koenigs Wusterhausen 026,Koenigs Wusterhausen,Brandenburg,Standard,2017-06-15
+S027,GH Markt Bernau 027,Bernau,Brandenburg,Standard,2017-10-04
+S028,GH Markt Berlin-Spandau 028,Berlin,Berlin,Standard,2021-01-23
+S029,GH Markt Berlin-Reinickendorf 029,Berlin,Berlin,Standard,2015-04-23
+S030,GH Markt Koenigs Wusterhausen 030,Koenigs Wusterhausen,Brandenburg,Standard,2017-10-21
+S031,GH Markt Berlin-Pankow 031,Berlin,Berlin,Standard,2016-07-26
+S032,GH Markt Berlin-Mitte 032,Berlin,Berlin,Standard,2013-10-16
+S033,GH Markt Berlin-Mitte 033,Berlin,Berlin,Standard,2015-06-17
+S034,GH Markt Berlin-Spandau 034,Berlin,Berlin,Standard,2011-03-05
+S035,GH Markt Koenigs Wusterhausen 035,Koenigs Wusterhausen,Brandenburg,Kompakt,2013-08-01
+S036,GH Markt Berlin-Steglitz 036,Berlin,Berlin,XL,2013-09-25
+S037,GH Markt Berlin-Reinickendorf 037,Berlin,Berlin,Standard,2009-10-02
+S038,GH Markt Berlin-Neukoelln 038,Berlin,Berlin,Kompakt,2005-05-21
+S039,GH Markt Berlin-Charlottenburg 039,Berlin,Berlin,Standard,2014-11-11
+S040,GH Markt Berlin-Neukoelln 040,Berlin,Berlin,Kompakt,2016-09-26
+S041,GH Markt Berlin-Steglitz 041,Berlin,Berlin,Standard,2021-04-21
+S042,GH Markt Berlin-Lichtenberg 042,Berlin,Berlin,Kompakt,2011-08-08
+S043,GH Markt Berlin-Neukoelln 043,Berlin,Berlin,Standard,2021-12-16
+S044,GH Markt Berlin-Marzahn 044,Berlin,Berlin,Standard,2021-08-29
+S045,GH Markt Berlin-Marzahn 045,Berlin,Berlin,XL,2022-08-30
+S046,GH Markt Bernau 046,Bernau,Brandenburg,Standard,2020-11-25
+S047,GH Markt Falkensee 047,Falkensee,Brandenburg,Standard,2016-10-10
+S048,GH Markt Falkensee 048,Falkensee,Brandenburg,XL,2009-09-02
+S049,GH Markt Berlin-Pankow 049,Berlin,Berlin,Standard,2019-10-17
+S050,GH Markt Berlin-Treptow 050,Berlin,Berlin,Standard,2020-07-25

@@ -1,0 +1,301 @@
+product_id,ean,product_name,category,brand,unit_size,unit_cost,initial_list_price
+P0001,4011254265893,Kiez Pils Alkoholfrei 0.33L Flasche,Bier,Kiez Pils,0.33L Flasche,6.08,9.9
+P0002,4020964925416,Kiez Pils Helles 0.5L Flasche,Bier,Kiez Pils,0.5L Flasche,2.37,3.19
+P0003,4082371207355,Schultheiss Radler 20x0.5L Kasten,Bier,Schultheiss,20x0.5L Kasten,7.14,11.37
+P0004,4021137842328,Hopfenwerk Pils 6x0.5L,Bier,Hopfenwerk,6x0.5L,8.71,14.24
+P0005,4069657779148,Spree Braeu Export 0.5L Flasche,Bier,Spree Braeu,0.5L Flasche,4.37,6.27
+P0006,4012237354224,Potsdamer Rex Helles 20x0.5L Kasten,Bier,Potsdamer Rex,20x0.5L Kasten,4.81,6.0
+P0007,4047720288738,Spree Braeu Radler 0.5L Flasche,Bier,Spree Braeu,0.5L Flasche,1.67,2.72
+P0008,4082392482404,Spree Braeu Pils 20x0.5L Kasten,Bier,Spree Braeu,20x0.5L Kasten,9.36,11.64
+P0009,4084648575338,Potsdamer Rex Weizen 6x0.5L,Bier,Potsdamer Rex,6x0.5L,0.67,1.11
+P0010,4064541423862,Hopfenwerk Helles 20x0.5L Kasten,Bier,Hopfenwerk,20x0.5L Kasten,3.55,5.02
+P0011,4048329387773,Kiez Pils Export 20x0.5L Kasten,Bier,Kiez Pils,20x0.5L Kasten,5.56,8.3
+P0012,4032305560665,Spree Braeu Pils 6x0.5L,Bier,Spree Braeu,6x0.5L,11.42,16.58
+P0013,4015990297125,Schultheiss Helles 20x0.5L Kasten,Bier,Schultheiss,20x0.5L Kasten,9.47,15.65
+P0014,4037930120652,Hopfenwerk Weizen 6x0.5L,Bier,Hopfenwerk,6x0.5L,2.68,3.45
+P0015,4023825205567,Kiez Pils Pils 20x0.5L Kasten,Bier,Kiez Pils,20x0.5L Kasten,2.46,3.8
+P0016,4025717732384,Kiez Pils Weizen 0.5L Flasche,Bier,Kiez Pils,0.5L Flasche,0.69,1.17
+P0017,4038619198725,Hopfenwerk Pils 0.33L Flasche,Bier,Hopfenwerk,0.33L Flasche,8.89,13.18
+P0018,4013912755581,Spree Braeu Export 6x0.5L,Bier,Spree Braeu,6x0.5L,13.11,16.72
+P0019,4047463618312,Potsdamer Rex Helles 20x0.5L Kasten,Bier,Potsdamer Rex,20x0.5L Kasten,3.82,5.33
+P0020,4019150471261,Schultheiss Helles 0.5L Flasche,Bier,Schultheiss,0.5L Flasche,5.36,7.59
+P0021,4085921745642,Berliner Kindl Export 0.5L Flasche,Bier,Berliner Kindl,0.5L Flasche,10.64,17.62
+P0022,4080152978668,Berliner Kindl Alkoholfrei 20x0.5L Kasten,Bier,Berliner Kindl,20x0.5L Kasten,14.38,18.62
+P0023,4056280058316,Spree Braeu Radler 6x0.5L,Bier,Spree Braeu,6x0.5L,2.3,3.24
+P0024,4067560694410,Hopfenwerk Export 20x0.5L Kasten,Bier,Hopfenwerk,20x0.5L Kasten,6.19,9.21
+P0025,4030931294647,Schultheiss Helles 0.5L Flasche,Bier,Schultheiss,0.5L Flasche,6.45,9.49
+P0026,4044151767175,Berliner Kindl Weizen 0.33L Flasche,Bier,Berliner Kindl,0.33L Flasche,4.91,7.46
+P0027,4053281938546,Schultheiss Alkoholfrei 0.5L Flasche,Bier,Schultheiss,0.5L Flasche,14.45,18.06
+P0028,4068732860649,Schultheiss Alkoholfrei 0.33L Flasche,Bier,Schultheiss,0.33L Flasche,8.25,10.53
+P0029,4076140384607,Schultheiss Alkoholfrei 6x0.5L,Bier,Schultheiss,6x0.5L,7.99,12.31
+P0030,4021889255357,Spree Braeu Pils 0.5L Flasche,Bier,Spree Braeu,0.5L Flasche,10.57,13.44
+P0031,4094234584042,Kiez Pils Radler 6x0.5L,Bier,Kiez Pils,6x0.5L,8.4,14.0
+P0032,4063431380401,Berliner Kindl Alkoholfrei 0.5L Flasche,Bier,Berliner Kindl,0.5L Flasche,14.09,18.24
+P0033,4063106830581,Potsdamer Rex Alkoholfrei 20x0.5L Kasten,Bier,Potsdamer Rex,20x0.5L Kasten,11.54,18.01
+P0034,4060845555031,Hopfenwerk Pils 0.5L Flasche,Bier,Hopfenwerk,0.5L Flasche,7.45,12.0
+P0035,4081932024485,Berliner Kindl Radler 0.33L Flasche,Bier,Berliner Kindl,0.33L Flasche,7.86,10.3
+P0036,4020776022964,Potsdamer Rex Radler 0.33L Flasche,Bier,Potsdamer Rex,0.33L Flasche,9.4,11.7
+P0037,4079688927451,Hopfenwerk Pils 6x0.5L,Bier,Hopfenwerk,6x0.5L,8.68,12.76
+P0038,4078627893235,Berliner Kindl Helles 6x0.5L,Bier,Berliner Kindl,6x0.5L,5.46,6.86
+P0039,4023300503528,Spree Braeu Helles 20x0.5L Kasten,Bier,Spree Braeu,20x0.5L Kasten,4.02,6.51
+P0040,4075671713780,Potsdamer Rex Pils 20x0.5L Kasten,Bier,Potsdamer Rex,20x0.5L Kasten,5.89,8.76
+P0041,4043872352612,Schultheiss Radler 20x0.5L Kasten,Bier,Schultheiss,20x0.5L Kasten,10.42,14.99
+P0042,4020663071949,Kiez Pils Radler 20x0.5L Kasten,Bier,Kiez Pils,20x0.5L Kasten,11.19,13.85
+P0043,4071748672858,Schultheiss Export 20x0.5L Kasten,Bier,Schultheiss,20x0.5L Kasten,2.17,3.01
+P0044,4036582312280,Spree Braeu Radler 0.5L Flasche,Bier,Spree Braeu,0.5L Flasche,7.05,9.06
+P0045,4080316463188,Kiez Pils Weizen 0.33L Flasche,Bier,Kiez Pils,0.33L Flasche,5.03,6.29
+P0046,4035551759407,Potsdamer Rex Radler 0.5L Flasche,Bier,Potsdamer Rex,0.5L Flasche,14.98,18.94
+P0047,4068511251399,Hopfenwerk Export 0.5L Flasche,Bier,Hopfenwerk,0.5L Flasche,14.03,18.97
+P0048,4031674525223,Berliner Kindl Radler 0.5L Flasche,Bier,Berliner Kindl,0.5L Flasche,10.05,17.12
+P0049,4069064213538,Potsdamer Rex Pils 20x0.5L Kasten,Bier,Potsdamer Rex,20x0.5L Kasten,3.51,4.4
+P0050,4064533265987,Hopfenwerk Export 0.5L Flasche,Bier,Hopfenwerk,0.5L Flasche,0.53,0.89
+P0051,4082086746826,Kiez Pils Alkoholfrei 20x0.5L Kasten,Bier,Kiez Pils,20x0.5L Kasten,9.65,16.25
+P0052,4085418219678,Schultheiss Export 20x0.5L Kasten,Bier,Schultheiss,20x0.5L Kasten,11.09,14.84
+P0053,4077066931548,Potsdamer Rex Pils 0.33L Flasche,Bier,Potsdamer Rex,0.33L Flasche,2.15,3.06
+P0054,4076115898273,Schultheiss Radler 6x0.5L,Bier,Schultheiss,6x0.5L,10.05,16.28
+P0055,4065038924537,Berliner Kindl Helles 0.5L Flasche,Bier,Berliner Kindl,0.5L Flasche,11.18,13.71
+P0056,4089573114022,Schultheiss Radler 0.5L Flasche,Bier,Schultheiss,0.5L Flasche,7.09,12.01
+P0057,4098202446158,Potsdamer Rex Alkoholfrei 0.33L Flasche,Bier,Potsdamer Rex,0.33L Flasche,1.54,2.46
+P0058,4061517183495,Schultheiss Radler 0.33L Flasche,Bier,Schultheiss,0.33L Flasche,11.04,15.06
+P0059,4072979835012,Potsdamer Rex Pils 0.5L Flasche,Bier,Potsdamer Rex,0.5L Flasche,4.51,6.27
+P0060,4055751746459,Kiez Pils Helles 6x0.5L,Bier,Kiez Pils,6x0.5L,11.03,17.91
+P0061,4035026799120,Hopfenwerk Weizen 20x0.5L Kasten,Bier,Hopfenwerk,20x0.5L Kasten,1.81,2.96
+P0062,4067116620567,Potsdamer Rex Pils 0.33L Flasche,Bier,Potsdamer Rex,0.33L Flasche,6.23,8.58
+P0063,4038533682018,Kiez Pils Weizen 0.5L Flasche,Bier,Kiez Pils,0.5L Flasche,3.43,4.75
+P0064,4030303358138,Potsdamer Rex Export 0.5L Flasche,Bier,Potsdamer Rex,0.5L Flasche,5.83,8.4
+P0065,4068718975086,Berliner Kindl Radler 0.33L Flasche,Bier,Berliner Kindl,0.33L Flasche,9.98,13.57
+P0066,4048827637565,Spree Braeu Radler 0.33L Flasche,Bier,Spree Braeu,0.33L Flasche,10.76,15.12
+P0067,4089776259804,Spree Braeu Radler 6x0.5L,Bier,Spree Braeu,6x0.5L,7.66,10.12
+P0068,4081988336967,Potsdamer Rex Pils 20x0.5L Kasten,Bier,Potsdamer Rex,20x0.5L Kasten,7.02,9.96
+P0069,4016485323236,Schultheiss Helles 6x0.5L,Bier,Schultheiss,6x0.5L,5.94,9.78
+P0070,4040071703644,Kiez Pils Export 20x0.5L Kasten,Bier,Kiez Pils,20x0.5L Kasten,1.17,1.8
+P0071,4084445608206,Potsdamer Rex Helles 6x0.5L,Bier,Potsdamer Rex,6x0.5L,8.35,14.31
+P0072,4064075636714,Schultheiss Alkoholfrei 20x0.5L Kasten,Bier,Schultheiss,20x0.5L Kasten,4.67,7.57
+P0073,4079489440221,Hopfenwerk Pils 6x0.5L,Bier,Hopfenwerk,6x0.5L,14.93,18.23
+P0074,4044905752564,Potsdamer Rex Weizen 0.33L Flasche,Bier,Potsdamer Rex,0.33L Flasche,9.97,13.31
+P0075,4024737617383,Kiez Pils Radler 0.33L Flasche,Bier,Kiez Pils,0.33L Flasche,3.24,4.59
+P0076,4060037248522,Berliner Kindl Alkoholfrei 0.5L Flasche,Bier,Berliner Kindl,0.5L Flasche,13.09,16.01
+P0077,4045331544425,Schultheiss Export 20x0.5L Kasten,Bier,Schultheiss,20x0.5L Kasten,2.32,3.37
+P0078,4052239424076,Kiez Pils Helles 0.5L Flasche,Bier,Kiez Pils,0.5L Flasche,9.95,14.54
+P0079,4030956705644,Kiez Pils Pils 0.33L Flasche,Bier,Kiez Pils,0.33L Flasche,10.22,17.3
+P0080,4054396097826,Schultheiss Helles 0.33L Flasche,Bier,Schultheiss,0.33L Flasche,7.0,9.71
+P0081,4068423414511,Berliner Kindl Pils 0.33L Flasche,Bier,Berliner Kindl,0.33L Flasche,11.83,16.14
+P0082,4042994754643,Schultheiss Weizen 6x0.5L,Bier,Schultheiss,6x0.5L,8.71,14.67
+P0083,4079176483050,Hopfenwerk Radler 20x0.5L Kasten,Bier,Hopfenwerk,20x0.5L Kasten,11.24,16.16
+P0084,4062841154647,Potsdamer Rex Alkoholfrei 20x0.5L Kasten,Bier,Potsdamer Rex,20x0.5L Kasten,7.97,9.98
+P0085,4019448174430,Berliner Kindl Export 0.33L Flasche,Bier,Berliner Kindl,0.33L Flasche,6.98,9.87
+P0086,4025975592419,Potsdamer Rex Pils 0.33L Flasche,Bier,Potsdamer Rex,0.33L Flasche,12.79,17.49
+P0087,4050338659542,Berliner Kindl Weizen 0.33L Flasche,Bier,Berliner Kindl,0.33L Flasche,1.0,1.24
+P0088,4035021989593,Schultheiss Weizen 0.33L Flasche,Bier,Schultheiss,0.33L Flasche,6.79,11.68
+P0089,4052975528626,Schultheiss Alkoholfrei 6x0.5L,Bier,Schultheiss,6x0.5L,13.6,18.66
+P0090,4096689010118,Spree Braeu Export 20x0.5L Kasten,Bier,Spree Braeu,20x0.5L Kasten,12.97,17.23
+P0091,4049607982957,Havel Still Lemon 12x0.7L Kasten,Wasser,Havel Still,12x0.7L Kasten,1.12,1.48
+P0092,4098612027327,ClaraQuell Still 12x0.7L Kasten,Wasser,ClaraQuell,12x0.7L Kasten,5.17,6.36
+P0093,4021148279737,Brandenburger Quelle Medium 0.75L Glas,Wasser,Brandenburger Quelle,0.75L Glas,4.79,7.23
+P0094,4098698615253,Havel Still Medium 1.5L PET,Wasser,Havel Still,1.5L PET,5.22,7.48
+P0095,4017633734507,ClaraQuell Medium 1.5L PET,Wasser,ClaraQuell,1.5L PET,3.21,4.17
+P0096,4084032478154,ClaraQuell Classic 12x0.7L Kasten,Wasser,ClaraQuell,12x0.7L Kasten,6.17,7.7
+P0097,4070777506579,Brandenburger Quelle Classic 1.5L PET,Wasser,Brandenburger Quelle,1.5L PET,0.54,0.89
+P0098,4076548832162,Spreewasser Lemon 0.75L Glas,Wasser,Spreewasser,0.75L Glas,5.86,7.44
+P0099,4087231277415,Spreewasser Lemon 12x0.7L Kasten,Wasser,Spreewasser,12x0.7L Kasten,1.87,2.57
+P0100,4012664656021,Brandenburger Quelle Medium 1.5L PET,Wasser,Brandenburger Quelle,1.5L PET,3.79,5.1
+P0101,4086750301666,ClaraQuell Medium 0.75L Glas,Wasser,ClaraQuell,0.75L Glas,4.15,6.52
+P0102,4063128822578,ClaraQuell Still 12x0.7L Kasten,Wasser,ClaraQuell,12x0.7L Kasten,5.32,8.16
+P0103,4017633043211,Spreewasser Medium 1.5L PET,Wasser,Spreewasser,1.5L PET,5.29,8.46
+P0104,4099886903305,Spreewasser Still 12x0.7L Kasten,Wasser,Spreewasser,12x0.7L Kasten,5.37,6.94
+P0105,4099782203352,Havel Still Medium 0.75L Glas,Wasser,Havel Still,0.75L Glas,1.21,1.69
+P0106,4092376888424,Spreewasser Lemon 0.75L Glas,Wasser,Spreewasser,0.75L Glas,3.93,5.83
+P0107,4028178113391,Brandenburger Quelle Medium 12x0.7L Kasten,Wasser,Brandenburger Quelle,12x0.7L Kasten,2.24,3.75
+P0108,4040896321613,Brandenburger Quelle Still 1.5L PET,Wasser,Brandenburger Quelle,1.5L PET,3.33,4.55
+P0109,4035608678759,Spreewasser Medium 0.75L Glas,Wasser,Spreewasser,0.75L Glas,5.15,7.25
+P0110,4091815833297,ClaraQuell Medium 0.75L Glas,Wasser,ClaraQuell,0.75L Glas,1.7,2.58
+P0111,4036944496236,Spreewasser Still 0.75L Glas,Wasser,Spreewasser,0.75L Glas,4.27,5.79
+P0112,4088688292875,Havel Still Lemon 1.5L PET,Wasser,Havel Still,1.5L PET,2.08,3.37
+P0113,4049454763272,Brandenburger Quelle Medium 1.5L PET,Wasser,Brandenburger Quelle,1.5L PET,5.85,7.61
+P0114,4083317459879,Havel Still Lemon 12x0.7L Kasten,Wasser,Havel Still,12x0.7L Kasten,7.0,9.44
+P0115,4019170474158,Havel Still Lemon 1.5L PET,Wasser,Havel Still,1.5L PET,1.52,2.12
+P0116,4048967524357,ClaraQuell Medium 12x0.7L Kasten,Wasser,ClaraQuell,12x0.7L Kasten,6.39,9.09
+P0117,4032145995035,Brandenburger Quelle Classic 0.75L Glas,Wasser,Brandenburger Quelle,0.75L Glas,0.81,1.38
+P0118,4038131295412,ClaraQuell Still 1.5L PET,Wasser,ClaraQuell,1.5L PET,3.21,4.56
+P0119,4072837075304,Brandenburger Quelle Classic 0.75L Glas,Wasser,Brandenburger Quelle,0.75L Glas,2.34,3.93
+P0120,4047494866975,Brandenburger Quelle Medium 1.5L PET,Wasser,Brandenburger Quelle,1.5L PET,2.15,3.18
+P0121,4055735062022,Brandenburger Quelle Classic 1.5L PET,Wasser,Brandenburger Quelle,1.5L PET,4.79,8.25
+P0122,4080252302376,Brandenburger Quelle Medium 12x0.7L Kasten,Wasser,Brandenburger Quelle,12x0.7L Kasten,2.36,3.46
+P0123,4053187706049,Spreewasser Lemon 12x0.7L Kasten,Wasser,Spreewasser,12x0.7L Kasten,2.15,3.37
+P0124,4093734615582,Spreewasser Lemon 0.75L Glas,Wasser,Spreewasser,0.75L Glas,1.66,2.51
+P0125,4014263661800,Spreewasser Classic 12x0.7L Kasten,Wasser,Spreewasser,12x0.7L Kasten,4.24,6.88
+P0126,4026948977732,Spreewasser Medium 1.5L PET,Wasser,Spreewasser,1.5L PET,5.1,8.76
+P0127,4061229084538,ClaraQuell Classic 1.5L PET,Wasser,ClaraQuell,1.5L PET,3.87,6.06
+P0128,4086803251339,Brandenburger Quelle Classic 12x0.7L Kasten,Wasser,Brandenburger Quelle,12x0.7L Kasten,4.72,8.13
+P0129,4032883713537,Havel Still Still 12x0.7L Kasten,Wasser,Havel Still,12x0.7L Kasten,5.84,7.44
+P0130,4098618458024,Brandenburger Quelle Classic 0.75L Glas,Wasser,Brandenburger Quelle,0.75L Glas,3.31,4.56
+P0131,4064066052697,Brandenburger Quelle Medium 0.75L Glas,Wasser,Brandenburger Quelle,0.75L Glas,2.57,3.33
+P0132,4017029755377,ClaraQuell Medium 1.5L PET,Wasser,ClaraQuell,1.5L PET,2.75,4.19
+P0133,4075266498875,ClaraQuell Classic 0.75L Glas,Wasser,ClaraQuell,0.75L Glas,0.38,0.62
+P0134,4090101751139,Spreewasser Lemon 0.75L Glas,Wasser,Spreewasser,0.75L Glas,4.68,7.13
+P0135,4025564954279,Brandenburger Quelle Still 1.5L PET,Wasser,Brandenburger Quelle,1.5L PET,1.31,1.75
+P0136,4011492182170,Brandenburger Quelle Lemon 12x0.7L Kasten,Wasser,Brandenburger Quelle,12x0.7L Kasten,5.47,9.42
+P0137,4089234227010,Havel Still Lemon 12x0.7L Kasten,Wasser,Havel Still,12x0.7L Kasten,1.27,1.6
+P0138,4014546772673,Havel Still Medium 12x0.7L Kasten,Wasser,Havel Still,12x0.7L Kasten,3.92,6.07
+P0139,4011634448952,Spreewasser Still 1.5L PET,Wasser,Spreewasser,1.5L PET,5.04,6.45
+P0140,4032829805590,Spreewasser Classic 12x0.7L Kasten,Wasser,Spreewasser,12x0.7L Kasten,2.01,2.54
+P0141,4075319267123,Havel Still Still 1.5L PET,Wasser,Havel Still,1.5L PET,2.99,4.03
+P0142,4047734514910,Havel Still Lemon 12x0.7L Kasten,Wasser,Havel Still,12x0.7L Kasten,5.97,7.31
+P0143,4046716528732,ClaraQuell Still 0.75L Glas,Wasser,ClaraQuell,0.75L Glas,5.39,7.65
+P0144,4071432343838,Brandenburger Quelle Lemon 1.5L PET,Wasser,Brandenburger Quelle,1.5L PET,5.73,8.49
+P0145,4087308457449,Spreewasser Classic 12x0.7L Kasten,Wasser,Spreewasser,12x0.7L Kasten,1.29,2.06
+P0146,4076014541409,ClaraQuell Lemon 0.75L Glas,Wasser,ClaraQuell,0.75L Glas,1.64,2.37
+P0147,4075802237898,Havel Still Lemon 12x0.7L Kasten,Wasser,Havel Still,12x0.7L Kasten,3.88,5.12
+P0148,4091357596178,Spreewasser Still 0.75L Glas,Wasser,Spreewasser,0.75L Glas,3.39,5.6
+P0149,4076924032858,Havel Still Lemon 0.75L Glas,Wasser,Havel Still,0.75L Glas,0.85,1.35
+P0150,4074738128031,ClaraQuell Medium 1.5L PET,Wasser,ClaraQuell,1.5L PET,6.24,9.3
+P0151,4062289043636,Sprudelzeit Cola Zero 1.5L PET,Softdrinks,Sprudelzeit,1.5L PET,2.57,3.54
+P0152,4052087623095,Kiez Cola Orange 1.5L PET,Softdrinks,Kiez Cola,1.5L PET,4.67,5.8
+P0153,4024658435049,BrauseBar Cola 1.5L PET,Softdrinks,BrauseBar,1.5L PET,2.53,4.14
+P0154,4031923707082,Kiez Cola Orange 6x1.0L,Softdrinks,Kiez Cola,6x1.0L,3.0,3.71
+P0155,4028187929147,BrauseBar Cola 1.5L PET,Softdrinks,BrauseBar,1.5L PET,5.2,8.04
+P0156,4033349585586,Sprudelzeit Cola Zero 1.0L PET,Softdrinks,Sprudelzeit,1.0L PET,3.58,5.17
+P0157,4054595590096,BrauseBar Cola 1.0L PET,Softdrinks,BrauseBar,1.0L PET,6.38,8.66
+P0158,4078832319733,Kiez Cola Cola Zero 1.0L PET,Softdrinks,Kiez Cola,1.0L PET,1.96,3.01
+P0159,4095769921948,Kiez Cola Cola Zero 6x1.0L,Softdrinks,Kiez Cola,6x1.0L,7.24,8.87
+P0160,4059760842865,Sprudelzeit Zitrone 1.0L PET,Softdrinks,Sprudelzeit,1.0L PET,1.36,2.09
+P0161,4024878019102,Kiez Cola Cola 6x1.0L,Softdrinks,Kiez Cola,6x1.0L,4.2,5.92
+P0162,4062580507404,Sprudelzeit Cola 1.0L PET,Softdrinks,Sprudelzeit,1.0L PET,1.78,2.27
+P0163,4078401347456,Limo Luise Mate 6x1.0L,Softdrinks,Limo Luise,6x1.0L,2.68,3.96
+P0164,4020858980369,Kiez Cola Cola 6x1.0L,Softdrinks,Kiez Cola,6x1.0L,2.13,2.64
+P0165,4026154286510,BrauseBar Cola Zero 6x1.0L,Softdrinks,BrauseBar,6x1.0L,2.44,3.11
+P0166,4073922068119,BrauseBar Mate 1.5L PET,Softdrinks,BrauseBar,1.5L PET,2.93,4.59
+P0167,4032356576347,BrauseBar Cola Zero 1.5L PET,Softdrinks,BrauseBar,1.5L PET,2.62,3.7
+P0168,4089918994573,Sprudelzeit Orange 1.0L PET,Softdrinks,Sprudelzeit,1.0L PET,1.84,2.28
+P0169,4058291121221,BrauseBar Mate 1.0L PET,Softdrinks,BrauseBar,1.0L PET,3.47,4.91
+P0170,4095702474425,Limo Luise Cola Zero 1.5L PET,Softdrinks,Limo Luise,1.5L PET,1.24,2.04
+P0171,4028694552801,BrauseBar Zitrone 6x1.0L,Softdrinks,BrauseBar,6x1.0L,1.64,2.3
+P0172,4092516356685,Sprudelzeit Cola 1.0L PET,Softdrinks,Sprudelzeit,1.0L PET,0.75,1.23
+P0173,4057869748220,BrauseBar Orange 6x1.0L,Softdrinks,BrauseBar,6x1.0L,3.18,4.71
+P0174,4076745316945,Limo Luise Mate 1.0L PET,Softdrinks,Limo Luise,1.0L PET,6.91,8.9
+P0175,4014509602072,Kiez Cola Zitrone 6x1.0L,Softdrinks,Kiez Cola,6x1.0L,5.53,8.36
+P0176,4077575472626,BrauseBar Cola Zero 1.5L PET,Softdrinks,BrauseBar,1.5L PET,5.36,7.35
+P0177,4067511228433,Limo Luise Mate 6x1.0L,Softdrinks,Limo Luise,6x1.0L,5.74,8.38
+P0178,4015585679588,BrauseBar Mate 1.0L PET,Softdrinks,BrauseBar,1.0L PET,5.79,8.94
+P0179,4045363465240,Kiez Cola Zitrone 6x1.0L,Softdrinks,Kiez Cola,6x1.0L,1.62,2.21
+P0180,4051498948713,BrauseBar Cola 6x1.0L,Softdrinks,BrauseBar,6x1.0L,2.67,3.54
+P0181,4040844227847,Kiez Cola Mate 1.5L PET,Softdrinks,Kiez Cola,1.5L PET,3.85,4.77
+P0182,4013622836594,Limo Luise Zitrone 1.0L PET,Softdrinks,Limo Luise,1.0L PET,5.02,6.41
+P0183,4057827243043,Sprudelzeit Zitrone 1.0L PET,Softdrinks,Sprudelzeit,1.0L PET,5.72,6.99
+P0184,4042970193969,Sprudelzeit Mate 1.5L PET,Softdrinks,Sprudelzeit,1.5L PET,2.75,3.41
+P0185,4055804073657,Limo Luise Mate 1.5L PET,Softdrinks,Limo Luise,1.5L PET,4.13,5.48
+P0186,4040812618996,Kiez Cola Mate 6x1.0L,Softdrinks,Kiez Cola,6x1.0L,3.19,4.34
+P0187,4070074093082,Limo Luise Zitrone 1.5L PET,Softdrinks,Limo Luise,1.5L PET,1.2,2.0
+P0188,4039389215840,Kiez Cola Cola 1.5L PET,Softdrinks,Kiez Cola,1.5L PET,3.68,6.29
+P0189,4070106424295,Sprudelzeit Cola 1.0L PET,Softdrinks,Sprudelzeit,1.0L PET,5.04,7.88
+P0190,4035516868993,Sprudelzeit Cola 1.0L PET,Softdrinks,Sprudelzeit,1.0L PET,1.96,3.19
+P0191,4073125199111,Kiez Cola Mate 6x1.0L,Softdrinks,Kiez Cola,6x1.0L,1.85,2.61
+P0192,4066293034121,Sprudelzeit Mate 6x1.0L,Softdrinks,Sprudelzeit,6x1.0L,3.76,5.87
+P0193,4012090482411,BrauseBar Orange 6x1.0L,Softdrinks,BrauseBar,6x1.0L,3.12,4.19
+P0194,4049954859775,Sprudelzeit Zitrone 1.5L PET,Softdrinks,Sprudelzeit,1.5L PET,5.8,7.99
+P0195,4054084183047,BrauseBar Cola Zero 6x1.0L,Softdrinks,BrauseBar,6x1.0L,2.54,3.57
+P0196,4092140465172,Sprudelzeit Zitrone 1.5L PET,Softdrinks,Sprudelzeit,1.5L PET,2.34,3.66
+P0197,4078820050569,Sprudelzeit Cola Zero 1.0L PET,Softdrinks,Sprudelzeit,1.0L PET,6.69,8.82
+P0198,4031620364853,Sprudelzeit Orange 6x1.0L,Softdrinks,Sprudelzeit,6x1.0L,3.33,4.83
+P0199,4046898414939,Limo Luise Mate 1.5L PET,Softdrinks,Limo Luise,1.5L PET,2.2,3.05
+P0200,4025092956770,Kiez Cola Orange 1.0L PET,Softdrinks,Kiez Cola,1.0L PET,5.91,7.52
+P0201,4022449616310,Kiez Cola Cola 1.0L PET,Softdrinks,Kiez Cola,1.0L PET,5.76,7.37
+P0202,4099874856350,Kiez Cola Mate 6x1.0L,Softdrinks,Kiez Cola,6x1.0L,1.29,1.92
+P0203,4093961070416,Kiez Cola Cola 6x1.0L,Softdrinks,Kiez Cola,6x1.0L,3.18,4.37
+P0204,4081166417649,BrauseBar Orange 6x1.0L,Softdrinks,BrauseBar,6x1.0L,0.95,1.55
+P0205,4084927635642,BrauseBar Orange 1.5L PET,Softdrinks,BrauseBar,1.5L PET,3.82,6.3
+P0206,4055068953416,Sprudelzeit Zitrone 1.0L PET,Softdrinks,Sprudelzeit,1.0L PET,3.12,4.38
+P0207,4056481346236,Kiez Cola Mate 6x1.0L,Softdrinks,Kiez Cola,6x1.0L,7.32,8.93
+P0208,4038649374886,Limo Luise Cola 1.0L PET,Softdrinks,Limo Luise,1.0L PET,5.55,6.81
+P0209,4041800392555,Kiez Cola Zitrone 1.0L PET,Softdrinks,Kiez Cola,1.0L PET,1.04,1.4
+P0210,4047499939823,Kiez Cola Orange 6x1.0L,Softdrinks,Kiez Cola,6x1.0L,5.94,7.65
+P0211,4090372791757,SaftWerk Orange 1.0L Tetra,Saft,SaftWerk,1.0L Tetra,2.97,4.26
+P0212,4023817296984,Gartenfrucht Orange 1.0L Tetra,Saft,Gartenfrucht,1.0L Tetra,2.74,4.54
+P0213,4049268499372,Obstgut Werder Multivitamin 1.0L Tetra,Saft,Obstgut Werder,1.0L Tetra,0.86,1.49
+P0214,4084081458566,Obstgut Werder Rhabarber 0.75L Glas,Saft,Obstgut Werder,0.75L Glas,1.05,1.42
+P0215,4058504758963,SaftWerk Apfel 1.0L Tetra,Saft,SaftWerk,1.0L Tetra,3.48,4.47
+P0216,4076401780048,Obstgut Werder Orange 0.75L Glas,Saft,Obstgut Werder,0.75L Glas,1.1,1.63
+P0217,4051821167406,SaftWerk Orange 1.0L Tetra,Saft,SaftWerk,1.0L Tetra,2.4,3.16
+P0218,4077634172950,Gartenfrucht Orange 1.0L Tetra,Saft,Gartenfrucht,1.0L Tetra,1.32,2.1
+P0219,4084079686051,Gartenfrucht Apfel 0.75L Glas,Saft,Gartenfrucht,0.75L Glas,1.21,1.94
+P0220,4068818584311,Obstgut Werder Apfel 1.0L Tetra,Saft,Obstgut Werder,1.0L Tetra,3.03,4.95
+P0221,4088557306288,Obstgut Werder Orange 0.75L Glas,Saft,Obstgut Werder,0.75L Glas,3.69,4.53
+P0222,4036017522347,SaftWerk Orange 1.0L Tetra,Saft,SaftWerk,1.0L Tetra,1.56,2.11
+P0223,4073947949456,Obstgut Werder Multivitamin 1.0L Tetra,Saft,Obstgut Werder,1.0L Tetra,2.59,3.33
+P0224,4053757286805,SaftWerk Orange 1.0L Tetra,Saft,SaftWerk,1.0L Tetra,1.06,1.47
+P0225,4060510076109,SaftWerk Orange 1.0L Tetra,Saft,SaftWerk,1.0L Tetra,3.18,4.09
+P0226,4038327465670,SaftWerk Apfel 1.0L Tetra,Saft,SaftWerk,1.0L Tetra,1.62,2.29
+P0227,4029104942495,SaftWerk Multivitamin 0.75L Glas,Saft,SaftWerk,0.75L Glas,0.89,1.53
+P0228,4090123756563,Gartenfrucht Multivitamin 0.75L Glas,Saft,Gartenfrucht,0.75L Glas,2.29,3.68
+P0229,4029366044716,Obstgut Werder Orange 0.75L Glas,Saft,Obstgut Werder,0.75L Glas,2.82,4.75
+P0230,4029268306040,SaftWerk Orange 0.75L Glas,Saft,SaftWerk,0.75L Glas,1.49,2.01
+P0231,4022122282242,Gartenfrucht Apfel 1.0L Tetra,Saft,Gartenfrucht,1.0L Tetra,1.77,2.85
+P0232,4014974336855,Obstgut Werder Multivitamin 0.75L Glas,Saft,Obstgut Werder,0.75L Glas,1.65,2.48
+P0233,4089952890774,SaftWerk Orange 1.0L Tetra,Saft,SaftWerk,1.0L Tetra,2.23,3.55
+P0234,4020379379429,Obstgut Werder Apfel 0.75L Glas,Saft,Obstgut Werder,0.75L Glas,1.01,1.66
+P0235,4083782797240,SaftWerk Multivitamin 1.0L Tetra,Saft,SaftWerk,1.0L Tetra,3.38,4.44
+P0236,4046113846776,Obstgut Werder Multivitamin 0.75L Glas,Saft,Obstgut Werder,0.75L Glas,2.94,4.98
+P0237,4025330707429,Obstgut Werder Orange 1.0L Tetra,Saft,Obstgut Werder,1.0L Tetra,2.65,3.42
+P0238,4097379625568,Gartenfrucht Rhabarber 0.75L Glas,Saft,Gartenfrucht,0.75L Glas,2.19,3.13
+P0239,4038897706376,Gartenfrucht Orange 0.75L Glas,Saft,Gartenfrucht,0.75L Glas,2.11,3.45
+P0240,4063039804950,SaftWerk Apfel 1.0L Tetra,Saft,SaftWerk,1.0L Tetra,1.32,1.67
+P0241,4066983426392,Rebenhof Grauburgunder 0.75L Flasche,Wein,Rebenhof,0.75L Flasche,5.8,8.49
+P0242,4039633621363,Rebenhof Rose 0.75L Flasche,Wein,Rebenhof,0.75L Flasche,9.6,14.25
+P0243,4069287806882,Weingut Elbtal Grauburgunder 0.75L Flasche,Wein,Weingut Elbtal,0.75L Flasche,7.07,10.24
+P0244,4044073350879,Rebenhof Merlot 0.75L Flasche,Wein,Rebenhof,0.75L Flasche,4.99,7.52
+P0245,4045018704036,Rebenhof Riesling 0.75L Flasche,Wein,Rebenhof,0.75L Flasche,4.39,5.82
+P0246,4033168012610,Vino Casa Import Riesling 0.75L Flasche,Wein,Vino Casa Import,0.75L Flasche,7.75,10.18
+P0247,4070205289308,Rebenhof Rose 0.75L Flasche,Wein,Rebenhof,0.75L Flasche,10.26,14.19
+P0248,4093151036048,Vino Casa Import Riesling 0.75L Flasche,Wein,Vino Casa Import,0.75L Flasche,9.7,14.39
+P0249,4071237692509,Vino Casa Import Merlot 0.75L Flasche,Wein,Vino Casa Import,0.75L Flasche,2.38,4.04
+P0250,4086693080335,Vino Casa Import Merlot 0.75L Flasche,Wein,Vino Casa Import,0.75L Flasche,3.25,4.28
+P0251,4080798474123,Weingut Elbtal Grauburgunder 0.75L Flasche,Wein,Weingut Elbtal,0.75L Flasche,5.3,9.11
+P0252,4060857011956,Vino Casa Import Grauburgunder 0.75L Flasche,Wein,Vino Casa Import,0.75L Flasche,9.15,13.66
+P0253,4054693143095,Weingut Elbtal Grauburgunder 0.75L Flasche,Wein,Weingut Elbtal,0.75L Flasche,4.41,5.76
+P0254,4087007790952,Weingut Elbtal Merlot 0.75L Flasche,Wein,Weingut Elbtal,0.75L Flasche,11.85,14.61
+P0255,4043701754280,Vino Casa Import Riesling 0.75L Flasche,Wein,Vino Casa Import,0.75L Flasche,8.33,10.53
+P0256,4060795341231,Weingut Elbtal Riesling 0.75L Flasche,Wein,Weingut Elbtal,0.75L Flasche,8.98,12.91
+P0257,4043298593105,Rebenhof Rose 0.75L Flasche,Wein,Rebenhof,0.75L Flasche,7.28,10.67
+P0258,4085394517235,Weingut Elbtal Grauburgunder 0.75L Flasche,Wein,Weingut Elbtal,0.75L Flasche,4.08,5.29
+P0259,4012157331997,Weingut Elbtal Grauburgunder 0.75L Flasche,Wein,Weingut Elbtal,0.75L Flasche,5.79,7.33
+P0260,4024705253013,Vino Casa Import Merlot 0.75L Flasche,Wein,Vino Casa Import,0.75L Flasche,6.78,9.09
+P0261,4013608550888,Rebenhof Merlot 0.75L Flasche,Wein,Rebenhof,0.75L Flasche,5.92,8.13
+P0262,4022566128875,Rebenhof Grauburgunder 0.75L Flasche,Wein,Rebenhof,0.75L Flasche,6.14,9.73
+P0263,4095258781614,Rebenhof Riesling 0.75L Flasche,Wein,Rebenhof,0.75L Flasche,4.69,7.78
+P0264,4017266175200,Weingut Elbtal Grauburgunder 0.75L Flasche,Wein,Weingut Elbtal,0.75L Flasche,10.49,12.89
+P0265,4048612350921,Rebenhof Merlot 0.75L Flasche,Wein,Rebenhof,0.75L Flasche,9.94,13.58
+P0266,4099418869709,Weingut Elbtal Grauburgunder 0.75L Flasche,Wein,Weingut Elbtal,0.75L Flasche,3.1,4.38
+P0267,4037158838002,Rebenhof Rose 0.75L Flasche,Wein,Rebenhof,0.75L Flasche,3.32,4.43
+P0268,4085372816940,Rebenhof Rose 0.75L Flasche,Wein,Rebenhof,0.75L Flasche,3.61,4.49
+P0269,4024018190387,Vino Casa Import Riesling 0.75L Flasche,Wein,Vino Casa Import,0.75L Flasche,3.63,4.65
+P0270,4045750997132,Vino Casa Import Merlot 0.75L Flasche,Wein,Vino Casa Import,0.75L Flasche,10.07,14.06
+P0271,4037958876656,Vino Casa Import Grauburgunder 0.75L Flasche,Wein,Vino Casa Import,0.75L Flasche,3.8,4.68
+P0272,4018485744813,Vino Casa Import Riesling 0.75L Flasche,Wein,Vino Casa Import,0.75L Flasche,5.79,7.14
+P0273,4097830778632,Vino Casa Import Rose 0.75L Flasche,Wein,Vino Casa Import,0.75L Flasche,9.18,11.78
+P0274,4081620970864,Rebenhof Rose 0.75L Flasche,Wein,Rebenhof,0.75L Flasche,8.77,14.37
+P0275,4097462343677,Weingut Elbtal Merlot 0.75L Flasche,Wein,Weingut Elbtal,0.75L Flasche,7.93,9.97
+P0276,4044770731149,Rebenhof Merlot 0.75L Flasche,Wein,Rebenhof,0.75L Flasche,6.41,9.3
+P0277,4016969247673,Adler Destille Gin 0.7L Flasche,Spirituosen,Adler Destille,0.7L Flasche,8.45,14.04
+P0278,4065099890772,Nordbrand Vodka 0.7L Flasche,Spirituosen,Nordbrand,0.7L Flasche,12.07,15.02
+P0279,4097816242194,Adler Destille Korn 0.7L Flasche,Spirituosen,Adler Destille,0.7L Flasche,6.19,9.83
+P0280,4097947345691,Kornhaus Korn 0.7L Flasche,Spirituosen,Kornhaus,0.7L Flasche,13.09,16.27
+P0281,4015699563083,Adler Destille Korn 0.7L Flasche,Spirituosen,Adler Destille,0.7L Flasche,4.85,7.87
+P0282,4058349699531,Adler Destille Korn 0.7L Flasche,Spirituosen,Adler Destille,0.7L Flasche,13.76,17.22
+P0283,4065601001764,Nordbrand Kraeuterlikoer 0.7L Flasche,Spirituosen,Nordbrand,0.7L Flasche,8.2,10.62
+P0284,4018152115268,Nordbrand Vodka 0.7L Flasche,Spirituosen,Nordbrand,0.7L Flasche,15.97,24.07
+P0285,4044047884013,Nordbrand Korn 0.7L Flasche,Spirituosen,Nordbrand,0.7L Flasche,12.0,14.87
+P0286,4038866070705,Adler Destille Vodka 0.7L Flasche,Spirituosen,Adler Destille,0.7L Flasche,10.43,16.72
+P0287,4030578104239,Adler Destille Kraeuterlikoer 0.7L Flasche,Spirituosen,Adler Destille,0.7L Flasche,13.07,19.1
+P0288,4026911322113,Kornhaus Kraeuterlikoer 0.7L Flasche,Spirituosen,Kornhaus,0.7L Flasche,8.07,10.03
+P0289,4055737362329,Kornhaus Korn 0.7L Flasche,Spirituosen,Kornhaus,0.7L Flasche,11.24,15.95
+P0290,4053015192266,Kornhaus Gin 0.7L Flasche,Spirituosen,Kornhaus,0.7L Flasche,17.35,24.9
+P0291,4030517099499,Kornhaus Gin 0.7L Flasche,Spirituosen,Kornhaus,0.7L Flasche,5.92,8.19
+P0292,4052210457110,Kornhaus Kraeuterlikoer 0.7L Flasche,Spirituosen,Kornhaus,0.7L Flasche,6.45,7.91
+P0293,4083999219147,Nordbrand Vodka 0.7L Flasche,Spirituosen,Nordbrand,0.7L Flasche,9.24,15.55
+P0294,4067414306981,Kornhaus Kraeuterlikoer 0.7L Flasche,Spirituosen,Kornhaus,0.7L Flasche,14.38,21.06
+P0295,4069627663492,Adler Destille Vodka 0.7L Flasche,Spirituosen,Adler Destille,0.7L Flasche,12.17,18.35
+P0296,4048257359075,Kornhaus Kraeuterlikoer 0.7L Flasche,Spirituosen,Kornhaus,0.7L Flasche,16.24,24.28
+P0297,4051373851800,Nordbrand Vodka 0.7L Flasche,Spirituosen,Nordbrand,0.7L Flasche,12.18,16.09
+P0298,4027872529717,Nordbrand Korn 0.7L Flasche,Spirituosen,Nordbrand,0.7L Flasche,12.47,20.4
+P0299,4034532784767,Nordbrand Kraeuterlikoer 0.7L Flasche,Spirituosen,Nordbrand,0.7L Flasche,16.24,20.44
+P0300,4027790028402,Nordbrand Korn 0.7L Flasche,Spirituosen,Nordbrand,0.7L Flasche,14.93,24.2
