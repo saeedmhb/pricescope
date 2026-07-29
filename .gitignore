@@ -3,3 +3,4 @@
 .env
 *.pbix.bak
 __pycache__/
+sql_drills/
