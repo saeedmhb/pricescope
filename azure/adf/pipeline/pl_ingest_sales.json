@@ -34,6 +34,26 @@
 						"type": "DelimitedTextReadSettings"
 					}
 				}
+			},
+			{
+				"name": "ForEach_SalesFile",
+				"type": "ForEach",
+				"dependsOn": [
+					{
+						"activity": "Get_SalesFiles",
+						"dependencyConditions": [
+							"Completed"
+						]
+					}
+				],
+				"userProperties": [],
+				"typeProperties": {
+					"items": {
+						"value": "@activity('Get_SalesFiles').output.childItems",
+						"type": "Expression"
+					},
+					"batchCount": 4
+				}
 			}
 		],
 		"annotations": []
