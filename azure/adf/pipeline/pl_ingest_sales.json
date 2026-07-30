@@ -19,7 +19,8 @@
 						"referenceName": "ds_landing_csv",
 						"type": "DatasetReference",
 						"parameters": {
-							"folderName": "sales"
+							"folderName": "sales",
+							"fileName": "@''"
 						}
 					},
 					"fieldList": [
