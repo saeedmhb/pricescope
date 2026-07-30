@@ -1,0 +1,12 @@
+{
+	"name": "ls_rest_openmeteo",
+	"properties": {
+		"annotations": [],
+		"type": "RestService",
+		"typeProperties": {
+			"url": "https://archive-api.open-meteo.com/",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
