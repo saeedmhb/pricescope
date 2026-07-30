@@ -1,0 +1,10 @@
+{
+	"name": "ls_adls_pricescope",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://stpricescope2026.dfs.core.windows.net/"
+		}
+	}
+}
