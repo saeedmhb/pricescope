@@ -52,7 +52,73 @@
 						"value": "@activity('Get_SalesFiles').output.childItems",
 						"type": "Expression"
 					},
-					"batchCount": 4
+					"batchCount": 4,
+					"activities": [
+						{
+							"name": "Copy_SalesFile",
+							"type": "Copy",
+							"dependsOn": [],
+							"policy": {
+								"timeout": "0.12:00:00",
+								"retry": 0,
+								"retryIntervalInSeconds": 30,
+								"secureOutput": false,
+								"secureInput": false
+							},
+							"userProperties": [],
+							"typeProperties": {
+								"source": {
+									"type": "DelimitedTextSource",
+									"storeSettings": {
+										"type": "AzureBlobFSReadSettings",
+										"recursive": true,
+										"enablePartitionDiscovery": false
+									},
+									"formatSettings": {
+										"type": "DelimitedTextReadSettings"
+									}
+								},
+								"sink": {
+									"type": "ParquetSink",
+									"storeSettings": {
+										"type": "AzureBlobFSWriteSettings"
+									},
+									"formatSettings": {
+										"type": "ParquetWriteSettings"
+									}
+								},
+								"enableStaging": false,
+								"translator": {
+									"type": "TabularTranslator",
+									"typeConversion": true,
+									"typeConversionSettings": {
+										"allowDataTruncation": true,
+										"treatBooleanAsNumber": false
+									}
+								}
+							},
+							"inputs": [
+								{
+									"referenceName": "ds_landing_csv",
+									"type": "DatasetReference",
+									"parameters": {
+										"folderName": "sales",
+										"fileName": "@item().name"
+									}
+								}
+							],
+							"outputs": [
+								{
+									"referenceName": "ds_raw_parquet",
+									"type": "DatasetReference",
+									"parameters": {
+										"folderName": "@concat('sales/year=', substring(item().name,10,4), '/month=', substring(item().name,15,2))",
+										"fileName": "@replace(item().name,'.csv','.parquet')"
+									}
+								}
+							]
+						}
+					]
 				}
 			}
 		],
