@@ -1,0 +1,98 @@
+{
+	"name": "pl_ingest_master",
+	"properties": {
+		"activities": [
+			{
+				"name": "ForEach_MasterFile",
+				"type": "ForEach",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"items": {
+						"value": "@pipeline().parameters.files",
+						"type": "Expression"
+					},
+					"isSequential": true,
+					"activities": [
+						{
+							"name": "Copy_MasterFile",
+							"type": "Copy",
+							"dependsOn": [],
+							"policy": {
+								"timeout": "0.12:00:00",
+								"retry": 0,
+								"retryIntervalInSeconds": 30,
+								"secureOutput": false,
+								"secureInput": false
+							},
+							"userProperties": [],
+							"typeProperties": {
+								"source": {
+									"type": "DelimitedTextSource",
+									"storeSettings": {
+										"type": "AzureBlobFSReadSettings",
+										"recursive": true,
+										"enablePartitionDiscovery": false
+									},
+									"formatSettings": {
+										"type": "DelimitedTextReadSettings"
+									}
+								},
+								"sink": {
+									"type": "ParquetSink",
+									"storeSettings": {
+										"type": "AzureBlobFSWriteSettings"
+									},
+									"formatSettings": {
+										"type": "ParquetWriteSettings"
+									}
+								},
+								"enableStaging": false,
+								"translator": {
+									"type": "TabularTranslator",
+									"typeConversion": true,
+									"typeConversionSettings": {
+										"allowDataTruncation": true,
+										"treatBooleanAsNumber": false
+									}
+								}
+							},
+							"inputs": [
+								{
+									"referenceName": "ds_landing_csv",
+									"type": "DatasetReference",
+									"parameters": {
+										"folderName": "master",
+										"fileName": "@item()"
+									}
+								}
+							],
+							"outputs": [
+								{
+									"referenceName": "ds_raw_parquet",
+									"type": "DatasetReference",
+									"parameters": {
+										"folderName": "master",
+										"fileName": "@replace(item(),'.csv','.parquet')"
+									}
+								}
+							]
+						}
+					]
+				}
+			}
+		],
+		"parameters": {
+			"files": {
+				"type": "array",
+				"defaultValue": [
+					"products.csv",
+					"stores.csv",
+					"price_history.csv",
+					"promotions.csv"
+				]
+			}
+		},
+		"annotations": []
+	}
+}
