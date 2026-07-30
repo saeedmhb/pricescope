@@ -1,0 +1,21 @@
+{
+	"name": "ds_landing_folder",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_adls_pricescope",
+			"type": "LinkedServiceReference"
+		},
+		"parameters": {
+			"folderName": {
+				"type": "string"
+			}
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation"
+			}
+		}
+	}
+}
