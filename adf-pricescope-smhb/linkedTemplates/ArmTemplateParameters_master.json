@@ -8,6 +8,9 @@
 		"ls_adls_pricescope_properties_typeProperties_url": {
 			"value": "https://stpricescope2026.dfs.core.windows.net/"
 		},
+		"ls_rest_openmeteo_properties_typeProperties_url": {
+			"value": "https://archive-api.open-meteo.com/"
+		},
 		"containerUri": {
 			"value": ""
 		},
