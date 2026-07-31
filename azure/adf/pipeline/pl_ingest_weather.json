@@ -28,12 +28,9 @@
 						}
 					},
 					"sink": {
-						"type": "JsonSink",
+						"type": "BinarySink",
 						"storeSettings": {
 							"type": "AzureBlobFSWriteSettings"
-						},
-						"formatSettings": {
-							"type": "JsonWriteSettings"
 						}
 					},
 					"enableStaging": false
@@ -46,7 +43,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "ds_landing_json",
+						"referenceName": "ds_landing_binary",
 						"type": "DatasetReference",
 						"parameters": {
 							"folderName": "weather",
