@@ -4,3 +4,8 @@
 *.pbix.bak
 __pycache__/
 sql_drills/
+.venv/
+logs/
+dbt/logs/
+dbt/target/
+dbt/dbt_packages/
