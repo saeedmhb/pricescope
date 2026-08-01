@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: raw
+    database: PRICESCOPE
+    schema: RAW
+    description:  "Raw layer loaded from ADLS Gen2 via Snowflake external stage and COPY INTO. Untyped by design - all casting happens in staging."
+    tables:
+      - name: RAW_PRODUCTS
+      - name: RAW_STORES
+      - name: RAW_PRICE_HISTORY
+      - name: RAW_PROMOTIONS
+      - name: RAW_POS_SALES
+      - name: RAW_COMPETITOR_PRICES
+      - name: RAW_WEATHER
